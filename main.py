@@ -1,7 +1,7 @@
 import requests
 import json
 
-base_url = 'https://bea-display-default-rtdb.firebaseio.com/'
+base_url = '[Your databse URL here]'
 
 def getCurrentPhraseNumber(url):
     return requests.get(url + 'frase.json').json()
