@@ -1,4 +1,4 @@
-# Python-Firebase
+# Python-Firebase <img align="center" height="50" widht="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width:100%;">
 This repository contains my personal project where I communicate to a ESP32 board via API, I built this program to make easier the process of creating new objects on the database.
 
 ## Project idea
